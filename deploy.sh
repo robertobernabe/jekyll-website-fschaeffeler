@@ -1,0 +1,1 @@
+rsync -r -v _site/. www.fschaeffeler.de@ssh.strato.de:
