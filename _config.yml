@@ -1,19 +1,19 @@
 # Site settings
-title: Florian Schäffeler
+title: Florian Schäffeler - Software Entwicklung Überlingen
 email: hello@fschaeffeler.de
-description: Hallo. Mein Name ist Florian Schäffeler und ich bein ein Software Entwickler aus Ravensburg.
+description: Hallo. Mein Name ist Florian Schäffeler und ich bin ein Software Entwickler / Build Engineer aus Überlingen.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.fschaeffeler.de" # the base hostname & protocol for your site
 
 # Identity
 your-name: Florian Schäffeler
-your-title: Software Entwickler
-skills: Web, Python, C++, Continous Integration
+your-title: Software Entwickler / Build Engineer
+skills: Python, C++, Continous Integration
 
 # Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: https://github.com/robertobernabe/
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://instagram.com/robertobernabe
