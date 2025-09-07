@@ -1,14 +1,14 @@
 # Site settings
-title: Florian Schäffeler - Software Entwicklung Überlingen
-email: hello@fschaeffeler.de
-description: Hallo. Mein Name ist Florian Schäffeler und ich bin ein Software Entwickler / Build Engineer aus Überlingen.
+title: Florian Escribano - Software Entwicklung Überlingen
+email: florian@escribano.de
+description: Hallo. Mein Name ist Florian Escribano und ich bin ein Software Entwickler / Build Engineer aus Überlingen.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.fschaeffeler.de" # the base hostname & protocol for your site
+url: "http://florian.escribano.de" # the base hostname & protocol for your site
 
 # Identity
-your-name: Florian Schäffeler
-your-title: Software Entwickler / Build Engineer
-skills: Python, C++, Continous Integration
+your-name: Florian Escribano
+your-title: DevOps Engineer, Software Entwickler / Build Engineer
+skills: DevOps, Python, Continous Integration
 
 # Social settings
 500px_url:
